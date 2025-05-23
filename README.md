@@ -15,6 +15,4 @@ Return
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
 ```
 
-```
-
-```
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/wifikeys.png" />
